@@ -15,5 +15,7 @@ local_settings.py
 db.sqlite3
 /personal_website/config
 
+### Client ###
+/app/static/node_modules
 .vscode
 
