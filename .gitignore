@@ -13,6 +13,7 @@ __pycache__/
 local_settings.py
 .env
 db.sqlite3
+/personal_website/config
 
 .vscode
 
